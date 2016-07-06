@@ -9,10 +9,10 @@
 /* typedef (Headers or sequence<sequence<ByteString>>) HeadersInit; */
 
 /* [Constructor(optional HeadersInit init),
- *Exposed=(Window,Worker)] */
+ * Exposed=(Window,Worker)] */
  
 interface Headers {
-};
+}; 
 
 /* void append(ByteString name, ByteString value);
  * void delete(ByteString name);
